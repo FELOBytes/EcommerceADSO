@@ -1,0 +1,17 @@
+services:
+  ecommercedb:
+    image: mongo
+    container_name: ecommerce-database
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongo:/data/db
+
+# Definición de servicios:
+# Aquí estamos definiendo un servicio llamado ecommercedb.
+# Este servicio se basa en la imagen de Docker llamada mongo, que es una base de datos MongoDB.
+# Configuración del servicio ecommercedb:
+# image: mongo: Indica que este servicio utilizará la imagen de MongoDB.
+# container_name: ecommerce-database: Asigna un nombre al contenedor que se creará a partir de esta imagen.
+# ports: Mapea el puerto 27017 del contenedor al puerto 27017 del host (donde se ejecuta Docker).
+# volumes: Monta el directorio local ./mongo dentro del contenedor en la ruta /data/db. Esto permite persistir los datos de la base de datos MongoDB en el sistema de archivos local.

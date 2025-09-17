@@ -1,0 +1,743 @@
+{
+	"knownSymbols": {
+		"lightTheme": [
+			{
+				"name": "lightTheme",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/themes/light-theme.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"createTheme": [
+			{
+				"name": "createTheme",
+				"module": "@mui/material/styles",
+				"isDefault": false
+			}
+		],
+		"red": [
+			{
+				"name": "red",
+				"module": "@mui/material/colors",
+				"isDefault": false
+			}
+		],
+		"MyDocument": [
+			{
+				"name": "MyDocument",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/_document.tsx",
+				"isDefault": true
+			}
+		],
+		"Document": [
+			{
+				"name": "Document",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"{ DocumentContext": [
+			{
+				"name": "{ DocumentContext",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"Html": [
+			{
+				"name": "Html",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"Head": [
+			{
+				"name": "Head",
+				"module": "next/head",
+				"isDefault": true
+			},
+			{
+				"name": "Head",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"Main": [
+			{
+				"name": "Main",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"NextScript": [
+			{
+				"name": "NextScript",
+				"module": "next/document",
+				"isDefault": true
+			}
+		],
+		"App": [
+			{
+				"name": "App",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/_app.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"type { AppProps": [
+			{
+				"name": "type { AppProps",
+				"module": "next/app",
+				"isDefault": true
+			}
+		],
+		"CssBaseline": [
+			{
+				"name": "CssBaseline",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ThemeProvider": [
+			{
+				"name": "ThemeProvider",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Link": [
+			{
+				"name": "Link",
+				"module": "@mui/material",
+				"isDefault": false
+			},
+			{
+				"name": "Link",
+				"module": "next/link",
+				"isDefault": true
+			}
+		],
+		"ProductPage": [
+			{
+				"name": "ProductPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/product/slug.tsx",
+				"isDefault": true
+			}
+		],
+		"Box": [
+			{
+				"name": "Box",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Grid": [
+			{
+				"name": "Grid",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Typography": [
+			{
+				"name": "Typography",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Button": [
+			{
+				"name": "Button",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Chip": [
+			{
+				"name": "Chip",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"OrdenPage": [
+			{
+				"name": "OrdenPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/orders/[id].tsx",
+				"isDefault": true
+			}
+		],
+		"NextLink": [
+			{
+				"name": "NextLink",
+				"module": "next/link",
+				"isDefault": true
+			}
+		],
+		"Card": [
+			{
+				"name": "Card",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"CardContent": [
+			{
+				"name": "CardContent",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Divider": [
+			{
+				"name": "Divider",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"CreditScoreOutlined": [
+			{
+				"name": "CreditScoreOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"Home": [
+			{
+				"name": "Home",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/index.tsx",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"CardActionArea": [
+			{
+				"name": "CardActionArea",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"CardMedia": [
+			{
+				"name": "CardMedia",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"CartPage": [
+			{
+				"name": "CartPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/cart/index.tsx",
+				"isDefault": true
+			}
+		],
+		"EmptyPage": [
+			{
+				"name": "EmptyPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/cart/empty.tsx",
+				"isDefault": true
+			}
+		],
+		"RemoveShoppingCartOutlined": [
+			{
+				"name": "RemoveShoppingCartOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"SummaryPage": [
+			{
+				"name": "SummaryPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/checkout/summary.tsx",
+				"isDefault": true
+			}
+		],
+		"AddressPage": [
+			{
+				"name": "AddressPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/checkout/address.tsx",
+				"isDefault": true
+			}
+		],
+		"FormControl": [
+			{
+				"name": "FormControl",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"MenuItem": [
+			{
+				"name": "MenuItem",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Select": [
+			{
+				"name": "Select",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"TextField": [
+			{
+				"name": "TextField",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"async": [
+			{
+				"name": "async",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/api/seed.ts",
+				"isDefault": true
+			}
+		],
+		"type { NextApiRequest": [
+			{
+				"name": "type { NextApiRequest",
+				"module": "next",
+				"isDefault": true
+			}
+		],
+		"NextApiResponse": [
+			{
+				"name": "NextApiResponse",
+				"module": "next",
+				"isDefault": true
+			}
+		],
+		"function": [
+			{
+				"name": "function",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/api/products/index.ts",
+				"isDefault": true
+			}
+		],
+		"handler": [
+			{
+				"name": "handler",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/api/hello.ts",
+				"type": "function",
+				"isDefault": true
+			}
+		],
+		"RegisterPage": [
+			{
+				"name": "RegisterPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/auth/register.tsx",
+				"isDefault": true
+			}
+		],
+		"LoginPage": [
+			{
+				"name": "LoginPage",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/auth/login.tsx",
+				"isDefault": true
+			}
+		],
+		"Custom404": [
+			{
+				"name": "Custom404",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/pages/404.tsx",
+				"isDefault": true
+			}
+		],
+		"Product": [
+			{
+				"name": "Product",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/models/Product.ts",
+				"isDefault": true
+			}
+		],
+		"mongoose": [
+			{
+				"name": "mongoose",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"{ Schema": [
+			{
+				"name": "{ Schema",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"model": [
+			{
+				"name": "model",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"Model": [
+			{
+				"name": "Model",
+				"module": "mongoose",
+				"isDefault": true
+			}
+		],
+		"IProduct": [
+			{
+				"name": "IProduct",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/interfaces/products.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"ISize": [
+			{
+				"name": "ISize",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/interfaces/products.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"IType": [
+			{
+				"name": "IType",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/interfaces/products.ts",
+				"type": "type",
+				"isDefault": false
+			}
+		],
+		"initialData": [
+			{
+				"name": "initialData",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/database/products.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"connect": [
+			{
+				"name": "connect",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/database/db.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"disconnect": [
+			{
+				"name": "disconnect",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/database/db.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"SHOP_CONSTANTS": [
+			{
+				"name": "SHOP_CONSTANTS",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/database/constants.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"SideMenu": [
+			{
+				"name": "SideMenu",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/ui/SideMenu.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"Drawer": [
+			{
+				"name": "Drawer",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"IconButton": [
+			{
+				"name": "IconButton",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Input": [
+			{
+				"name": "Input",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"InputAdornment": [
+			{
+				"name": "InputAdornment",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"List": [
+			{
+				"name": "List",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListItem": [
+			{
+				"name": "ListItem",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListItemIcon": [
+			{
+				"name": "ListItemIcon",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListItemText": [
+			{
+				"name": "ListItemText",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ListSubheader": [
+			{
+				"name": "ListSubheader",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"AccountCircleOutlined": [
+			{
+				"name": "AccountCircleOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"AdminPanelSettings": [
+			{
+				"name": "AdminPanelSettings",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"CategoryOutlined": [
+			{
+				"name": "CategoryOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"ConfirmationNumberOutlined": [
+			{
+				"name": "ConfirmationNumberOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"FemaleOutlined": [
+			{
+				"name": "FemaleOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"LoginOutlined": [
+			{
+				"name": "LoginOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"MaleOutlined": [
+			{
+				"name": "MaleOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"SearchOutlined": [
+			{
+				"name": "SearchOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"VpnKeyOutlined": [
+			{
+				"name": "VpnKeyOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"WcOutlined": [
+			{
+				"name": "WcOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"Navbar": [
+			{
+				"name": "Navbar",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/ui/Navbar.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"AppBar": [
+			{
+				"name": "AppBar",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Badge": [
+			{
+				"name": "Badge",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"Toolbar": [
+			{
+				"name": "Toolbar",
+				"module": "@mui/material",
+				"isDefault": false
+			}
+		],
+		"ShoppingCartOutlined": [
+			{
+				"name": "ShoppingCartOutlined",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"ItemCounter": [
+			{
+				"name": "ItemCounter",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/ui/ItemCounter.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"AddCircleOutline": [
+			{
+				"name": "AddCircleOutline",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"RemoveCircleOutline": [
+			{
+				"name": "RemoveCircleOutline",
+				"module": "@mui/icons-material",
+				"isDefault": false
+			}
+		],
+		"FC": [
+			{
+				"name": "FC",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"SizeSelector": [
+			{
+				"name": "SizeSelector",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/products/SizeSelector.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"ProductSlidesShow": [
+			{
+				"name": "ProductSlidesShow",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/products/ProductSlidesShow.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"Slide": [
+			{
+				"name": "Slide",
+				"module": "react-slideshow-image",
+				"isDefault": false
+			}
+		],
+		"ProductList": [
+			{
+				"name": "ProductList",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/products/ProductList.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"ProductCard": [
+			{
+				"name": "ProductCard",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/products/ProductCard.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"useMemo": [
+			{
+				"name": "useMemo",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"useState": [
+			{
+				"name": "useState",
+				"module": "react",
+				"isDefault": false
+			}
+		],
+		"ShopLayout": [
+			{
+				"name": "ShopLayout",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/layouts/ShopLayout.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"AuthLayout": [
+			{
+				"name": "AuthLayout",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/layouts/AuthLayout.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"React": [
+			{
+				"name": "React",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"{ FC": [
+			{
+				"name": "{ FC",
+				"module": "react",
+				"isDefault": true
+			}
+		],
+		"OrderSummary": [
+			{
+				"name": "OrderSummary",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/cart/OrderSummary.tsx",
+				"type": "function",
+				"isDefault": false
+			}
+		],
+		"CartList": [
+			{
+				"name": "CartList",
+				"path": "/mnt/c/Users/Fe/Documents/SENA DESARROLLO DE SOFTWARE/PROYECTO/ecommerce-ADSO2/components/cart/CartList.tsx",
+				"type": "const",
+				"isDefault": false
+			}
+		]
+	}
+}

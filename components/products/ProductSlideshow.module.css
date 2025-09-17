@@ -1,0 +1,18 @@
+.each-slide > div {
+  display: flex;
+  justify-content: center;
+  background-size: contain;
+  background-position: center;
+  height: 650px;
+}
+
+/* Estilos CSS para el carrusel de productos. */
+
+
+/* .each-slide > div: Se aplica a los elementos <div> dentro de cada diapositiva.
+display: flex;: Se utiliza para que los elementos sean flexibles y se puedan alinear horizontalmente.
+justify-content: center;: Centra los elementos horizontalmente dentro del contenedor.
+background-size: contain;: Ajusta el tamaño de la imagen de fondo para que se ajuste al contenedor sin distorsionarla.
+background-position: center;: Centra la imagen de fondo verticalmente.
+height: 650px;: Establece la altura de cada diapositiva en 650 píxeles. */
+

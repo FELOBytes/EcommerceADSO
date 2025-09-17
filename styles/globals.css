@@ -1,0 +1,45 @@
+/* Animación de desvanecimiento */
+@keyframes fadeIn {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+} 
+
+@-webkit-keyframes fadeIn {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+/* Aplicar la animación de desvanecimiento */
+.fadeIn {
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+/* Estilos para botones circulares */
+.circular-btn {
+  border-radius: 30px;
+}
+
+.circular-btn:hover {
+  background-color: #30d680 !important;
+}
+
+/* Estilos para tarjetas de resumen */
+.summary-card {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Animación de desvanecimiento (fadeIn):
+Se definen dos conjuntos de reglas de animación (@keyframes y @-webkit-keyframes) para crear una transición de opacidad.
+La clase .fadeIn aplica esta animación con una duración de 0.5 segundos.
+Estilos para botones circulares (circular-btn):
+La clase .circular-btn establece un radio de borde de 30px, lo que crea botones con esquinas redondeadas.
+Al pasar el ratón sobre estos botones, se cambia el color de fondo a verde (#30d680).
+Estilos para tarjetas de resumen (summary-card):
+La clase .summary-card define un borde de 1px sólido y una sombra para las tarjetas de resumen.
+La sombra proporciona una apariencia elevada a las tarjetas. */
